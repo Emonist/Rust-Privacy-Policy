@@ -1,18 +1,50 @@
 # Privacy Policy
 
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+A minimal, privacy-first policy for our Discord Bot. No clutter. No compromise.
 
-## Data
-We are not collecting or storing any type of data from any user.
+[![License](https://img.shields.io/badge/license-MIT-000000.svg?style=flat)](https://discord.gg/rusthq)
+[![Uptime](https://img.shields.io/badge/status-Online-00b894)](https://discord.gg/rusthq)
 
-## User Rights
+## Overview
 
-At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the [Discord Server](https://discord.gg/3Nbt6MkxFu). You have the right to request the removal of relevant Data.
+We do not track, log, or store any user data. The Bot is built with zero data persistence and operates entirely in runtime memory.
 
-## Underage Users
+No analytics  
+No message logs  
+No user profiling
 
-The use of the Bot is not permitted for minors under the age of 13, or under the age of legal consent for their country. This is in compliance with the [Discord Terms of Service](https://discord.com/terms). No information will be knowingly stored from an underage user. If it is found out that a user is underage we will take all necessary action to delete the stored data.
+## Data Handling
 
-## Questions
+All interactions are processed in real-time and discarded instantly after use. Nothing is saved. Nothing is shared.
 
-If you have any questions or are concerned about what data might be being stored from your account contact `@emonist`. For more information check the [Discord Terms Of Service](https://discord.com/terms).
+The only time data might be stored is when it’s necessary for a specific feature, and even then, it's transparent, limited, and deletable upon request.
+
+## Your Control
+
+You have the right to:
+
+• Request visibility of any data linked to your Discord ID  
+• Request deletion of any stored data (if applicable)
+
+Requests can be made via our [Support Server](https://discord.gg/rusthq)
+
+## Age Restrictions
+
+This bot is not intended for users under the age of 13  
+or the legal age of digital consent in your country
+
+We follow the [Discord Terms of Service](https://discord.com/terms).  
+If underage data is detected, it will be permanently deleted
+
+## Contact
+
+Have concerns or questions?  
+Reach out directly via Discord: `@dwaarika`
+
+## Final Word
+
+No invasive features  
+No hidden logging  
+No third-party data sharing  
+Just a clean, transparent, privacy-first bot
+
