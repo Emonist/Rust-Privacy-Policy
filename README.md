@@ -2,8 +2,8 @@
 
 A minimal, privacy-first policy for our Discord Bot. No clutter. No compromise.
 
-[![License](https://img.shields.io/badge/license-MIT-000000.svg?style=flat)](https://discord.gg/rusthq)
-[![Uptime](https://img.shields.io/badge/status-Online-00b894)](https://discord.gg/rusthq)
+[![License](https://img.shields.io/badge/license-MIT-000000.svg?style=flat)](https://discord.gg/protonhq)
+[![Uptime](https://img.shields.io/badge/status-Online-00b894)](https://discord.gg/protonhq)
 
 ## Overview
 
@@ -26,7 +26,7 @@ You have the right to:
 • Request visibility of any data linked to your Discord ID  
 • Request deletion of any stored data (if applicable)
 
-Requests can be made via our [Support Server](https://discord.gg/rusthq)
+Requests can be made via our [Support Server](https://discord.gg/protonhq)
 
 ## Age Restrictions
 
